@@ -14,3 +14,6 @@ def fib(x)
 # This expression will compute the 40th number.
 fib(40)
 ```
+
+## Current state
+Lexer, AST, parser. Next step: IR generation.
